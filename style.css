@@ -1,0 +1,57 @@
+p{
+    /* remember the semi colon */
+    color:blue;
+    font-size: 25px
+}
+h1 {
+    color: black;
+    font-size: 40px;
+    text-align: center;
+font-family: Arial, Helvetica, sans-serif;
+}
+h2{
+    color: rgb(0, 183, 255);
+    font-size: 30px;
+}
+body{
+    background-color: whitesmoke;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+li{
+    list-style: square;
+    padding: 3px;
+    margin: 2px;
+    margin-right: 20px;
+}
+a{
+    background-color: lightgreen;
+    color: black;
+}
+/* makes a colors block on the list of favorite foods */
+ul{
+    background-color: rgba(255, 255, 0, 0.555);
+}
+
+#most-favorite {
+    background-color: pink;
+
+}
+.second-favorite {
+    background-color: teal;
+}
+
+#page-title{
+    text-shadow: 4px 4px goldenrod;
+}
+#favorite-music-name{
+    background-color: gray;
+    text-shadow: 3px 2px purple; 
+}
+.favorite-section {
+    background-color: saddlebrown;
+    border: 3px black double;
+    margin: 10px;
+
+padding: 15px;
+}
