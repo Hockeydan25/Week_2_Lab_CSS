@@ -1,0 +1,18 @@
+table, tr, th, td {
+    border: 1px black solid;
+
+}
+
+th {
+    width: 100px;
+    background-color: burlywood;
+}
+td{
+    text-align: center;
+}
+tr:nth-child(even){
+    background-color: cadetblue;
+}
+tr:nth-child(odd){
+    background-color: cornsilk;
+}
